@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @RutharaujosP12
-- 👀 I’m interested in software developer and database.
-- 🌱 I am learning through the program Oracle next education , Java & framework's.
-- 💞️ I’m looking to collaborate on Java projects front/ back end. 
+- 👀 I’m interested in software developer full stack & database.
+- 🌱 I am learning through the program Oracle next education.
+- JAVA | Angular | JavaScript | HTML | CSS | DATABASE.
+- 💞️ I’m looking to collaborate on web developer projects front/ back end. 
 - 📫 How to reach me rutharaujosP@outlook.com
 - 😄 Pronouns: she
 
