@@ -1,7 +1,7 @@
 
 <h1><strong> 👩‍💻 Olá mundo, me chamo Ruth Araújo.📚 </strong></h1>
              <h2>24 anos, mãe de dois, Recife - PE.</h2>
-              <h2>Esse é o meu repositório remoto no Github, <i>sejam bem vindos!</i>🤝✨</h2>  
+              <h2>Sejam bem vindos ao meu perfil aqui no Github🤝✨</h2>  
 
 
 :red_circle: Estudante de análise e desenvolvimento de sistemas - Uninassau.
