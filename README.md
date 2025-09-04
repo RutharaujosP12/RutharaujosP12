@@ -1,6 +1,7 @@
 
-<h1><strong> 👩‍💻 Olá mundo, me chamo Ruth Araújo.📚 </strong></h1>
-             <h2>25 anos, mãe de dois, Recife - PE.</h2>
+<h1><strong> <👩‍💻 Olá mundo, me chamo Ruth Araújo.📚 /> </strong></h1> 
+            
+   <h2>25 anos, mãe de dois, Recife - PE.</h2>
               <h2>Sejam bem vindos ao meu perfil aqui no Github🤝✨</h2>  
 
 
